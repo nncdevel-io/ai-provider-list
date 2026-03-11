@@ -1,9 +1,5 @@
 schema_version: '1.0'
 purpose: AI service domain allow/exclude lists for log aggregation
-matching:
-  host_extraction: parse URL -> hostname (lowercase)
-  rule: host == domain OR host endswith '.' + domain
-  priority: EXCLUDE first, then ALLOW (so broad bases can be suppressed)
 allow:
 - domain: ai.google.dev
 - domain: anthropic.com
@@ -45,21 +41,9 @@ allow:
 - domain: replicate.com
 - domain: runwayml.com
 - domain: stability.ai
-- domain: substrate.office.com
 - domain: tenbin.ai
 - domain: together.ai
 - domain: v0.app
 - domain: v0.dev
 - domain: value-domain.com
 - domain: vertexai.googleapis.com
-exclude:
-- domain: adobe.com
-- domain: amazonaws.com
-- domain: azure.com
-- domain: github.com
-- domain: gitlab.com
-- domain: google.com
-- domain: googleapis.com
-- domain: microsoft.com
-- domain: office.com
-- domain: vercel.com
