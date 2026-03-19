@@ -19,7 +19,7 @@ allow:
 - domain: copilot.microsoft.com
 - domain: devin.ai
 - domain: elevenlabs.io
-- domain: exawizards.com
+- domain: exabase.ai
 - domain: felo.ai
 - domain: firefly.adobe.com
 - domain: gemini.google.com

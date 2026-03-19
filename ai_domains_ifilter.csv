@@ -17,7 +17,7 @@ ALLOW,console.anthropic.com,2026-02-27
 ALLOW,copilot.microsoft.com,2026-02-27
 ALLOW,devin.ai,2026-02-27
 ALLOW,elevenlabs.io,2026-02-27
-ALLOW,exawizards.com,2026-02-27
+ALLOW,exabase.ai,2026-03-19
 ALLOW,felo.ai,2026-02-27
 ALLOW,firefly.adobe.com,2026-02-27
 ALLOW,gemini.google.com,2026-02-27
