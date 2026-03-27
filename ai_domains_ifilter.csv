@@ -13,6 +13,7 @@ ALLOW,claude.ai,2026-02-27
 ALLOW,cognition.ai,2026-02-27
 ALLOW,cohere.ai,2026-02-27
 ALLOW,console.anthropic.com,2026-02-27
+ALLOW,console.cloud.google.com/vertex-ai,2026-03-27
 ALLOW,copilot.microsoft.com,2026-02-27
 ALLOW,devin.ai,2026-02-27
 ALLOW,elevenlabs.io,2026-02-27
@@ -24,6 +25,7 @@ ALLOW,genspark.ai,2026-02-27
 ALLOW,groq.com,2026-02-27
 ALLOW,huggingface.co,2026-02-27
 ALLOW,kantan.gmo,2026-02-27
+ALLOW,m365.cloud.microsoft,2026-03-27
 ALLOW,manus.im,2026-02-27
 ALLOW,midjourney.com,2026-02-27
 ALLOW,mistral.ai,2026-02-27
@@ -44,3 +46,4 @@ ALLOW,v0.app,2026-02-27
 ALLOW,v0.dev,2026-02-27
 ALLOW,value-domain.com,2026-02-27
 ALLOW,vertexai.googleapis.com,2026-02-27
+ALLOW,vertexaisearch.cloud.google.com,2026-03-27
