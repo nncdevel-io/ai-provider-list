@@ -7,7 +7,6 @@ ALLOW,api.openai.com,2026-02-27
 ALLOW,app.orcha.jp,2026-02-27
 ALLOW,bedrock-runtime.amazonaws.com,2026-02-27
 ALLOW,bedrock.amazonaws.com,2026-02-27
-ALLOW,bing.com,2026-02-27
 ALLOW,canva.com,2026-02-27
 ALLOW,chatgpt.com,2026-02-27
 ALLOW,claude.ai,2026-02-27
